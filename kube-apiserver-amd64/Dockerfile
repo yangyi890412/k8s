@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/kube-apiserver-amd64
+FROM gcr.io/google-containers/kube-apiserver-amd64:v1.12.2
 MAINTAINER yy
